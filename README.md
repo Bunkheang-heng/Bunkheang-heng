@@ -84,36 +84,31 @@ I build projects to learn by doing. I’m always open to collaborations, ideas, 
 
 ---
 
-<details>
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+### ⚙️ GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunkheang-heng&layout=compact&theme=tokyonight&hide_border=false" alt="top languages" />
   <br/>
-  <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bunkheang-heng&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunkheang-heng&layout=compact&theme=tokyonight&hide_border=false" alt="top languages" />
-    <br/>
-    <img height="165" src="https://streak-stats.demolab.com?user=Bunkheang-heng&theme=tokyonight&hide_border=false" alt="streak" />
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Bunkheang-heng&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunkheang-heng&theme=tokyo-night&area=true&hide_border=false" alt="activity graph" />
-  </div>
-</details>
+  <img height="165" src="https://streak-stats.demolab.com?user=Bunkheang-heng&theme=tokyonight&hide_border=false" alt="streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bunkheang-heng&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunkheang-heng&theme=tokyo-night&area=true&hide_border=false" alt="activity graph" />
+</div>
 
 ---
 
-<details>
-  <summary><b>🧾 Profile Summary Cards</b></summary>
+### 🧾 Profile Summary Cards
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bunkheang-heng&theme=tokyonight" alt="profile details" />
   <br/>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bunkheang-heng&theme=tokyonight" alt="profile details" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bunkheang-heng&theme=tokyonight" alt="repos per language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bunkheang-heng&theme=tokyonight" alt="most commit language" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bunkheang-heng&theme=tokyonight" alt="stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bunkheang-heng&theme=tokyonight&utcOffset=7" alt="productive time" />
-  </div>
-</details>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bunkheang-heng&theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bunkheang-heng&theme=tokyonight" alt="most commit language" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bunkheang-heng&theme=tokyonight" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bunkheang-heng&theme=tokyonight&utcOffset=7" alt="productive time" />
+</div>
 
 ---
 
