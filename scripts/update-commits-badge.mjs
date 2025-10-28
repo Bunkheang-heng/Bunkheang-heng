@@ -61,7 +61,7 @@ async function updateReadme(badgeUrl) {
   const start = '<!-- COMMITS:START -->';
   const end = '<!-- COMMITS:END -->';
 
-  const pattern = new RegExp(`${start}[\s\S]*?${end}`);
+  const pattern = new RegExp(`${start}[\\s\\S]*?${end}`);
   const replacement = `${start}<img src="${badgeUrl}" />${end}`;
 
   if (!pattern.test(content)) {
