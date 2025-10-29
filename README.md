@@ -9,7 +9,7 @@
   <a href="https://github.com/Bunkheang-heng?tab=repositories"><img src="https://img.shields.io/github/stars/Bunkheang-heng?affiliations=OWNER&style=for-the-badge&color=0ea5e9" alt="stars" /></a>
   <a href="https://kheangdev.tech/"><img src="https://img.shields.io/badge/Website-kheangdev.tech-7D6BFE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" /></a>
   <a href="https://www.linkedin.com/in/bunkheang-heng-200b25297/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <!-- COMMITS:START --><img src="https://img.shields.io/badge/Commits%20(this%20year)-loading...-7D6BFE?style=for-the-badge" /><!-- COMMITS:END -->
+  <!-- COMMITS:START --><img src="https://img.shields.io/badge/Commits%20(this%20year)-7-7D6BFE?style=for-the-badge" /><!-- COMMITS:END -->
 
 </div>
 
